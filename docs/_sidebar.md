@@ -1,5 +1,6 @@
-* 用户接口
-    * [登陆功能](/zh/user.md)
-    * [获取用户信息](/zh/getuserinfo.md)
-    * [获取用户列表](/zh/getuserlist.md)
-* 产品接口
+* 提测相关
+    * [`脚本树结构`](/zh/tree.md)
+    * [`脚本集合`](/zh/getScriptCollection.md)
+    * [`脚本列表`](/zh/getScriptList.md)
+    * [`脚本状态`](/zh/getScriptStatus.md)
+* 报告相关
