@@ -1,8 +1,6 @@
 * 公共参数
     * [`公共参数`](/zh/common.md)
 * 提测相关
-    * [`脚本树结构`](/zh/tree.md)
-    * [`脚本集合`](/zh/getScriptCollection.md)
-    * [`脚本列表`](/zh/getScriptList.md)
-    * [`脚本状态`](/zh/getScriptStatus.md)
+    * [`脚本部分`](/zh/scripts/base.md)
+    * [`浏览器部分`](/zh/browser/base.md)
 * 报告相关
