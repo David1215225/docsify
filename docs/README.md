@@ -25,4 +25,8 @@
     * 浏览器部分
         * [`浏览器列表`](/zh/browser/base.md#浏览器列表)
         * [`浏览器筛选条件`](/zh/browser/base.md#浏览器筛选条件)
+    * 基础信息部分
+        * [`数据源信息`](/zh/testInfo/base.md#数据源信息)
+        * [`用户邮箱列表`](/zh/testInfo/base.md#用户邮箱列表)
+        * [`创建任务信息`](/zh/testInfo/base.md#创建任务信息)
 * 报告相关

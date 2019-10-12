@@ -160,6 +160,12 @@
         "version": "69.0"
       }
     ],
+    "emails": [
+      {
+        "email": "zhaochongwei@testin.cn",
+        "name": "王小虎"
+      }
+    ],
     "projectid": 6,
     "paramSource": 55,
     "paramSourceName": "数据源name",
@@ -184,6 +190,7 @@
 |`browsers`|`浏览器信息`|`Y`|`Array`|
 |`paramSource`|`数据源ID`|`N`|`Number`|
 |`paramSourceName`|`数据源名称`|`N`|`String`|
+|`emails`|`所选邮件发送人`|`N`|`Array`|
 |`scripts`|`所选脚本信息`|`Y`|`Array`|
 |`taskDescr`|`任务名称`|`Y`|`String`|
 
