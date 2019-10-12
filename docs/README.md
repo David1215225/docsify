@@ -22,4 +22,7 @@
         * [`脚本集合`](/zh/scripts/base.md#脚本集合)
         * [`脚本列表`](/zh/scripts/base.md#脚本列表)
         * [`脚本状态`](/zh/scripts/base.md#脚本状态)
+    * 浏览器部分
+        * [`浏览器列表`](/zh/browser/base.md#浏览器列表)
+        * [`浏览器筛选条件`](/zh/browser/base.md#浏览器筛选条件)
 * 报告相关
