@@ -1,7 +1,12 @@
 * 公共参数
     * [`公共参数`](/zh/common.md)
+* 用户信息
+    * [`用户信息`](zh/user/base.md)
 * 提测相关
     * [`脚本部分`](/zh/scripts/base.md)
     * [`浏览器部分`](/zh/browser/base.md)
     * [`基础信息部分`](/zh/testInfo/base.md)
 * 报告相关
+    * [`测试概况`](/zh/report/test/base.md)
+    * [`脚本执行报告`](/zh/report/script/base.md)
+    * [`浏览器执行报告`](/zh/report/browser/base.md)
