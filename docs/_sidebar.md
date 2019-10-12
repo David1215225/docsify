@@ -1,3 +1,5 @@
+* 公共参数
+    * [`公共参数`](/zh/common.md)
 * 提测相关
     * [`脚本树结构`](/zh/tree.md)
     * [`脚本集合`](/zh/getScriptCollection.md)
