@@ -151,7 +151,7 @@
 |---|---|---|---|
 |`data`|`参数对象`|`String`|`返回的数据`|
 |`objInfo`|`基本信息`|`Object`|` `|
-|`total`|`总条数`|`Number`|``|
+|`total`|`总条数`|`Number`|` `|
 |`passTotal`|`脚本通过数`|`Number`|` `|
 |`failedTotal`|`未通过脚本数`|`Number`|` `|
 |`scriptRunInfos`|`脚本列表统计`|`Object`|` `|
@@ -164,3 +164,6 @@
 |`webScript.scriptDescr`|`脚本描述`|`String`|` `|
 |`browserInfo.type`|`浏览器名称`|`String`|` `|
 |`browserInfo.version`|`浏览器版本`|`String`|` `|
+|`resultCategory`|`状态`|`Number`|`-2待执行-1执行中0无结果1通过9取消8超时100失效`|
+|`resultCategory`|`问题类型`|`Number`|`0无结果7未执行8超时9取消13脚本错误15环境异常17HTTP错误100失效`|
+|`errorMsg`|`错误定位`|`String`|` `|
