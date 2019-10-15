@@ -46,4 +46,5 @@
         * [`浏览器信息`](/zh/report/info/base.md#浏览器信息)
         * [`脚本执行概况`](/zh/report/info/base.md#脚本执行概况)
         * [`单独脚本步骤详情`](/zh/report/info/base.md#单独脚本步骤详情)
+        * [`网络信息筛选条件`](/zh/report/info/base.md#网络信息筛选条件)
         * [`网络步骤信息`](/zh/report/info/base.md#网络步骤信息)
