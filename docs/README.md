@@ -32,3 +32,18 @@
         * [`用户邮箱列表`](/zh/testInfo/base.md#用户邮箱列表)
         * [`创建任务信息`](/zh/testInfo/base.md#创建任务信息)
 * 报告相关
+    * 测试概况
+        * [`任务信息`](/zh/report/test/base.md#任务信息)
+        * [`图表信息`](/zh/report/test/base.md#图表信息)
+        * [`报告总结`](/zh/report/test/base.md#报告总结)
+    * 脚本执行报告
+        * [`筛选条件`](/zh/report/script/base.md#筛选条件)
+        * [`脚本列表`](/zh/report/script/base.md#脚本列表)
+    * 浏览器执行报告
+        * [`浏览器执行列表`](/zh/report/browser/base.md#浏览器执行列表)
+    * 执行详情
+        * [`脚本步骤信息`](/zh/report/info/base.md#脚本步骤信息)
+        * [`浏览器信息`](/zh/report/info/base.md#浏览器信息)
+        * [`脚本执行概况`](/zh/report/info/base.md#脚本执行概况)
+        * [`单独脚本步骤详情`](/zh/report/info/base.md#单独脚本步骤详情)
+        * [`网络步骤信息`](/zh/report/info/base.md#网络步骤信息)

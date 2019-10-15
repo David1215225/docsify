@@ -10,3 +10,4 @@
     * [`测试概况`](/zh/report/test/base.md)
     * [`脚本执行报告`](/zh/report/script/base.md)
     * [`浏览器执行报告`](/zh/report/browser/base.md)
+    * [`执行详情`](/zh/report/info/base.md)
